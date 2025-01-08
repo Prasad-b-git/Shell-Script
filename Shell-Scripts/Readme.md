@@ -1,7 +1,3 @@
-Your `README.md` file looks very well-written and covers the important aspects of the project. However, I noticed a few small issues with formatting (particularly in the Folder Structure and Steps to Run sections) that could be fixed to improve clarity. Here's an updated version with proper formatting and some minor improvements:
-
----
-
 # E-commerce Application
 
 A simple e-commerce application built with Flask and SQLite.
